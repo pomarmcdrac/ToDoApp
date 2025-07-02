@@ -17,19 +17,21 @@ Una aplicación Flutter para gestionar tareas y registrar cómo te sentiste al c
 
 ### Lista de tareas
 
-![Lista de tareas](https://github.com/user-attachments/assets/e33025d4-3f48-42a3-8c63-2394367f56ad)
+### Lista de tareas
+
+<img src="https://github.com/user-attachments/assets/e33025d4-3f48-42a3-8c63-2394367f56ad" alt="Lista de tareas" width="300"/>
 
 ### Diálogo para agregar tarea
 
-![Agregar tarea](https://github.com/user-attachments/assets/a045ab95-be17-419d-8437-5389291d390e)
+<img src="https://github.com/user-attachments/assets/a045ab95-be17-419d-8437-5389291d390e" alt="Agregar tarea" width="300"/>
 
 ### Diálogo para finalizar tarea
 
-![Finalizar tarea](https://github.com/user-attachments/assets/528aa8ee-3cb4-45f1-af64-26ca91242111)
+<img src="https://github.com/user-attachments/assets/528aa8ee-3cb4-45f1-af64-26ca91242111" alt="Finalizar tarea" width="300"/>
 
 ### Resumen de tareas completadas
 
-![Resumen](https://github.com/user-attachments/assets/c008a614-f1df-459d-a06f-eb0c75fdd70a)
+<img src="https://github.com/user-attachments/assets/c008a614-f1df-459d-a06f-eb0c75fdd70a" alt="Resumen" width="300"/>
 
 ---
 
